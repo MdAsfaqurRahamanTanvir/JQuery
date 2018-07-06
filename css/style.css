@@ -1,0 +1,26 @@
+#slider1 .rs-border.rs-outer  {
+    border: 16px dotted #61A9DC;
+}
+#slider1 .rs-border.rs-inner  {
+    border-width: 0px;
+}
+#slider1 .rs-handle  {
+    background: black;
+    margin-left: 0 !important;
+}
+
+
+#slider4{
+    float: right;
+    height: 496px;
+    width: 600px;
+    margin-top: -150px;
+    margin-left: 80px;
+    width: 60%;
+}
+
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
